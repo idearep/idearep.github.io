@@ -8,7 +8,7 @@ redirect_to: "http://madsbuch.com"
 	</head>
 	<body>
 		<p>
-			This site has moved to <span id="to"></span>
+			This site has been moved to <span id="to"></span>
 		</p>
 		<script>
 			var queryString = window.location.pathname + window.location.search + window.location.hash;
