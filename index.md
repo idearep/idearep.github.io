@@ -1,3 +1,7 @@
+---
+redirect_to: "http://madsbuch.com"
+---
+
 <html>
 	<head>
 		<title>Redirect to madsbuch.com</title>
